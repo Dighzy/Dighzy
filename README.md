@@ -6,4 +6,4 @@
 - 👻 I'm a data lover ❤
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dighzy&show_icons=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dighzy&layout=compact)](https://github.com/Dighzy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dighzy&layout=compact&theme=radical)](https://github.com/Dighzy/github-readme-stats)
