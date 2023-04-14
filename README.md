@@ -6,7 +6,7 @@
 - 👻 I'm a data lover ❤
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dighzy&show_icons=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dighzy&layout=compact&theme=radical&width="49%")](https://github.com/Dighzy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dighzy&layout=compact&theme=radical&card_width=500px)](https://github.com/Dighzy/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
