@@ -4,6 +4,7 @@
 - 🤖 I am currently learning and improving in machine learning
 - 👻 I'm a data lover ❤
 
+<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dighzy&show_icons=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dighzy&layout=compact&theme=radical&line_height=500)](https://github.com/Dighzy/github-readme-stats)
 
@@ -14,12 +15,7 @@
   <img align="center" alt="scikit-learn" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
   <img align="center" alt="Data Scientist" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg">
   <img align="center" alt="Angular" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Ts" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-  
-          
-          
+  <img align="center" alt="Ts" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">          
   </div>
 
 ### 
