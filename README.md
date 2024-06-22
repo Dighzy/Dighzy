@@ -1,8 +1,7 @@
 ### Hi I'm Diogo Hajjar  👋
 
-- 🔧 I’m currently working on Devops|Developer
-- 🌱 I’m currently learning Data Science
-- 🔎 I’m looking to working on Data Science
+- 🔧 I’m currently working as a Data Scientist
+- 🤖 I am currently learning and improving in machine learning
 - 👻 I'm a data lover ❤
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dighzy&show_icons=true&show_icons=true&theme=radical)
